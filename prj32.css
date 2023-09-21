@@ -1,0 +1,63 @@
+.room_img img{
+    height: 100vh;
+    width: 100%;
+    position: relative;
+}
+.room_text{
+    position: absolute;
+    color:black;
+    left:560px;
+    top: 290px;
+    font-size:40px;
+}
+.h1{
+    font-size: 50px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+}
+.h2{
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    color: brown;
+}
+.h3{
+    font-size: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    color: brown;
+}
+.p{
+    font-size: 25px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    color: black;
+}
+.d{
+    display: flex;
+    justify-content: space-evenly;
+    margin: 0px;
+}
+.i{
+    
+    height: 400px;
+    width: 700px;
+}
+.a{
+    height: 400px;
+    width: 700px;
+    background-color: grey;
+    display: flex;
+}
+.l{
+    margin-top: 90px;
+}
+.u li{
+    font-size:20px;
+}
+.u h2{
+    font-size:23px;
+}
+.l li{
+    font-size:20px;
+}

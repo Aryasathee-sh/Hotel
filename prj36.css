@@ -1,0 +1,15 @@
+.contact_img img{
+    height: 100vh;
+    width: 100%;
+    position: relative;
+}
+.contact_text{
+    position: absolute;
+    color:black;
+    left:600px;
+    top: 400px;
+    font-size:40px;
+}
+h1{
+    color: blue;
+}
